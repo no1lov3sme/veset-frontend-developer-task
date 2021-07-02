@@ -43,4 +43,4 @@ All fields except `description` are mandatory.
 Code coverage with tests, team members list filtering or any other improvement of initial requirements will be accounted as a plus but ___not required___.
 
 ### Terms
-We expect to receieve a github repository link with implemented task in 1 week from the day task is sent to candidate.
+We expect to receive a github repository link with implemented task in 1 week from the day task is sent to candidate.
